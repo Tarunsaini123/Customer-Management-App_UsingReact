@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    padding-top: 25px;
+}
+body{
+    background-color: aquamarine;
+
+}
+
+.main{
+    margin: auto;
+    width: 50%;
+    background-color: rgb(163, 203, 212);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.input-element{
+    margin: auto;
+    padding: 10px 20px 20px 10px;
+    border-radius: 5px;
+}
+
+.input-element input ,textarea{
+    display: block;
+    width: 100%;
+}
+
+.input-btn{
+    margin: auto;
+    width: 90%;
+    padding-bottom: 10px;
+}
+.input-btn input{
+    width: 20%;
+    margin: 2%;
+}

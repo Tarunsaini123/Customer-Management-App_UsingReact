@@ -1,0 +1,57 @@
+h3{
+    text-align: center;
+    padding-top: 25px;
+}
+
+body{
+    background-color: brown;
+}
+
+.main{
+    margin: auto;
+    width: 50%;
+    background-color: rgb(163, 203, 212);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.input-element{
+    margin: auto;
+    padding: 10px 20px 20px 10px;
+    border-radius: 5px;
+}
+
+.input-element input ,textarea{
+    display: block;
+    width: 100%;
+}
+
+.input-btn{
+    margin: auto;
+    width: 90%;
+    padding-bottom: 10px;
+}
+.input-btn button{
+    width: 20%;
+    margin: 2%;
+}
+
+/* table css*/
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: #04AA6D;
+    color: white;
+  }
+
